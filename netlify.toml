@@ -1,0 +1,4 @@
+[build]
+  base    = "VAARMINDS-main/kr0354-ride-sharing-frontend"
+  publish = "dist"
+  command = "npm run build" 
