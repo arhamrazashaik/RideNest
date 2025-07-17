@@ -1,3 +1,5 @@
+Deployed Link: https://ridenest.netlify.app/
+
 # VAARMINDS Ride Sharing Platform
 
 A full-stack ride-sharing application with separate backend and frontend projects. This platform allows users to book rides, join groups, and manage ride-sharing activities, with special features like She Mode for women.
